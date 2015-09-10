@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# CS61B_LectureCode
 =======
 How Lecture Code Works
 ======
@@ -19,4 +17,3 @@ With the following contents:
 
 
 
->>>>>>> 208ed05ea42216c4c95bf53bed44ec20ae2e631c
